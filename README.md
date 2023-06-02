@@ -13,7 +13,7 @@ To build the IoT Weather Station, you will need the following components:
 + Jumper wires
 ## Circuit Diagram
 Below is the circuit diagram for creating the live weather station monitoring using NodeMCU. Refer to the figure below for the circuit layout.
-
+![](https://github.com/danielchristopher513/IOT_Based_Weather_Station_Using_NodeMCU/blob/main/circuit_diagram.png)
 ## Displaying the Data on the Website
 To display the weather data on the website, follow these steps:
 
