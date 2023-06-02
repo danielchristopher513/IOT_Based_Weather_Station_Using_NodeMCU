@@ -1,4 +1,3 @@
-# IOT_Based_Weather_Station_Using_NodeMCU
 # IoT Weather Station with NodeMCU ESP8266
 ## The IoT Weather Station with NodeMCU ESP8266 is a project that demonstrates how to create a simple online weather station using the NodeMCU ESP8266 (Wemos D1) Wi-Fi development board. This project pulls weather data such as temperature, humidity, rain, and vibration and displays it on a local website connected to the NodeMCU.
 
